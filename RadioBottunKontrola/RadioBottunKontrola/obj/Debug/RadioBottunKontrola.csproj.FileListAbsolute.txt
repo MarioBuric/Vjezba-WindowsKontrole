@@ -1,0 +1,10 @@
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\bin\Debug\RadioBottunKontrola.exe.config
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\bin\Debug\RadioBottunKontrola.exe
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\bin\Debug\RadioBottunKontrola.pdb
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.Form1.resources
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.Properties.Resources.resources
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.csproj.GenerateResource.cache
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.exe
+C:\Users\3.D\source\repos\RadioBottunKontrola\RadioBottunKontrola\obj\Debug\RadioBottunKontrola.pdb
